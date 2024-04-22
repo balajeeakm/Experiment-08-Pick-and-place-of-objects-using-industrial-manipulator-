@@ -99,6 +99,9 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 10 52 43 AM](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/131589871/244a6742-f110-400c-987c-1974b92b8fb5)
+
+
 
 
 
