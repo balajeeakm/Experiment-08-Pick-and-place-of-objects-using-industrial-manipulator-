@@ -81,6 +81,18 @@ and click on the connect icon
 
 3. click on the 
 
+program:
+![image](https://github.com/balajeeakm/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/131589871/241f014b-ab71-4227-9906-e808ff83f0a3)
+
+![image](https://github.com/balajeeakm/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/131589871/5b2cb053-bc42-49e0-a0c5-8a615d694b8e)
+
+![image](https://github.com/balajeeakm/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/131589871/f170de1d-16cf-437a-9fae-9df106e76d1c)
+
+Robo Action:
+![image](https://github.com/balajeeakm/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/131589871/ef55b449-4eef-435c-ae3d-423331757906)
+
+
+
 
 
 
